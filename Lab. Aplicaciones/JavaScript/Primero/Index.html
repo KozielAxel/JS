@@ -61,8 +61,15 @@
         let nota = parseInt(prompt('ingrese su nota'))
 
         if (nota >=4){
-            document.write(nombre + 'esta aprobado con ' + nota)
-            alert("Aprobado con " + nota)
+            if(nota>=6){
+                alert("Excelente")
+            }
+            else{
+                alert("Regular")
+            }
+        }
+        else{
+            alert("Desaprobado")
         }
 
 
