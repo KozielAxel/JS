@@ -1,0 +1,24 @@
+.Contenedor{
+    display: flex;
+}
+
+li{
+    color: goldenrod;
+}
+
+h1,h2,h3,td{
+    color: white;
+}
+
+.As{
+    color: goldenrod;
+}
+
+
+a{
+    color: white;}
+
+body{
+    background-image: url(https://i.pinimg.com/736x/2b/14/d7/2b14d78cec66dc13f9083a32285f0a33.jpg);
+    background-repeat: repeat;
+}
