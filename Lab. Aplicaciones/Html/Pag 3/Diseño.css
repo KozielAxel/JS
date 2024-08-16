@@ -1,0 +1,22 @@
+#h1{
+    text-align: center;
+    background-color: crimson;
+}
+
+#P1{
+    color: white;
+    background-color: red;
+    margin: 5%;
+    display: flex;
+}
+#P2{
+    color: white;
+    background-color: firebrick;
+    margin: 5%;
+    display: flex;
+}
+
+#Image1{
+    width: 200px;
+    height: 200px;
+}

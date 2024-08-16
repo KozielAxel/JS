@@ -1,0 +1,15 @@
+.form-container {
+    width: 300px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+    }
+    
+    input, button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    }

@@ -1,0 +1,22 @@
+div{
+    background-color:rgb(130,100,66);
+    max-width: 30%;
+    border:double black 10px
+    
+}
+
+h1{
+ margin: 15%;
+}
+h2{
+ margin: 5%;
+}
+h3{
+ margin: 5%;
+}
+h1,h2,h3,h6 {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  

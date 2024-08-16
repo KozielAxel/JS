@@ -1,0 +1,1 @@
+//Confeccionar una funcion que reciba dos numeros y muestre en la pagina la suma de ellos. carga por teclado  esos dos valores

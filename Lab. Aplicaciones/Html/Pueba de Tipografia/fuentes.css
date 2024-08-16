@@ -1,0 +1,29 @@
+h1{
+    font-style: italic;
+}
+h2{
+    font-style: normal;
+}
+h3{
+    font-style: oblique;
+}
+h4{
+    font-style: inherit;
+}
+h5{
+    font-style: initial;
+}
+h6{
+    font-style: unset;
+}
+p{
+    font-style: calc();
+}
+
+
+body {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  

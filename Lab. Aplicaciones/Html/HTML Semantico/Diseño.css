@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    background-color:floralwhite;
+    border: solid red 3px;
+}
+
+nav-ul , nav-bar{
+    
+    background-color: green;
+    float: left;
+    display: block;
+    text-align: center;
+}
+
+li{
+    color: yellow;
+}
+
+a{
+    color: yellow;
+}

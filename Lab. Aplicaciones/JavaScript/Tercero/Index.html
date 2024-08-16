@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+<script>
+    function suma(){
+        Suma = Num1+Num2
+        document.write(Suma)
+    }
+
+    function resta(){
+        Resta = Num1-Num2
+        document.write(Resta)
+    }
+
+    function division(){
+        Division = Num1/Num2
+        document.write(Division)
+    }
+
+    function multiplicacion(){
+        Multiplicacion = Num1*Num2
+        document.write(Multiplicacion)
+    }
+
+
+    let Num1=0,Num2=0;
+    Num1 = parseInt(prompt("Ingrese un numero"))
+    Num2= parseInt(prompt("Ingrese un numero"))
+    let valor;
+    valor = parseInt(prompt(" Seleccione una de las siguientes funciones 1.Suma 2.Resta 3.Division 4.Multiplicacion "))
+    switch (valor){
+        case 1:
+            suma();
+            break;
+        case 2:
+            resta();
+            break;
+        case 3: 
+            division();
+            break;
+        case 4:
+            multiplicacion();
+            break;
+        default:
+         document.write("Seleccione una de las funciones previamente dichas")
+    }
+
+</script>
+
+
+
+</body>
+</html>
